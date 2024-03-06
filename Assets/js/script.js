@@ -1,7 +1,7 @@
 // Global variables
 var searchHistory = [];
 var weatherApiRootUrl = 'https://api.openweathermap.org';
-var weatherApiKey = 'd91f911bcf2c0f925fb6535547a5ddc9';
+var weatherApiKey = 'b89ab92178040adec1b6e1b87d60e9fd';
 
 // DOM element references
 var searchForm = document.querySelector('#search-form');
@@ -171,6 +171,9 @@ function renderItems(city, data) {
   renderCurrentWeather(city, data.list[0], data.city.timezone);
   renderForecast(data.list);
 }
+
+// Clear entries from local storage
+localStorage.removeItem('entries');
 
 // Fetches weather data for given location from the Weather Geolocation
 // endpoint; then, calls functions to display current and forecast weather data.
