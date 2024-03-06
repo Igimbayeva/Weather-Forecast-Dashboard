@@ -1,4 +1,4 @@
-# Weather-Forecast-Hub
+# Weather Forecast Dashboard
 
 ## Overview
 This Weather Dashboard project is a web application that allows users to check the current weather and a 5-day forecast for a specific location. It leverages the OpenWeatherMap API to fetch weather data and presents it in a user-friendly interface.
