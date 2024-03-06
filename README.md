@@ -29,11 +29,18 @@ Bootstrap (optional): Front-end framework for styling and components.
 [](https://igimbayeva.github.io/Weather-Forecast-Hub/)
 
 
+## Mock up
+
+![https](https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/06-server-side-apis-homework-demo.png)
+
 ## Screenshot of the live page
-![] https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%201.PNG
+
+![https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%202.PNG]
+
 <br>
 <br>
-![] https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%202.PNG
+
+![https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%201.PNG]
 
 
 ## Credits
