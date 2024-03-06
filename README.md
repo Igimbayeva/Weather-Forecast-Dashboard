@@ -1,7 +1,7 @@
 # Weather Forecast Dashboard
 
 ## Overview
-This Weather Dashboard project is a web application that allows users to check the current weather and a 5-day forecast for a specific location. It leverages the OpenWeatherMap API to fetch weather data and presents it in a user-friendly interface.
+This Weather Forecast Dashboard project is a web application that allows users to check the current weather and a 5-day forecast for a specific location. It leverages the OpenWeatherMap API to fetch weather data and presents it in a user-friendly interface.
 
 ## Features
 Current Weather Display: View the real-time temperature, wind speed, and humidity for a chosen location.
@@ -30,21 +30,21 @@ Bootstrap: Front-end framework for styling and components.
 
 
 ## Github repo link
-https://github.com/Igimbayeva/Weather-Forecast-Hub
+https://github.com/Igimbayeva/Weather-Forecast-Dashboard
 
 ## Live page url
-https://igimbayeva.github.io/Weather-Forecast-Hub/
+https://igimbayeva.github.io/Weather-Forecast-Dashboard/
 
 ## Mock up
 
-![https](https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/06-server-side-apis-homework-demo.png)
+![https](https://github.com/Igimbayeva/Weather-Forecast-Dashboard/blob/main/Assets/06-server-side-apis-homework-demo.png)
 
 ## Screenshot of the live page
 
-![https](https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%202.PNG)
+![https](https://github.com/Igimbayeva/Weather-Forecast-Dashboard/blob/main/Assets/Live%202.PNG)
 <br>
 <br>
-![https](https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%201.PNG)
+![https](https://github.com/Igimbayeva/Weather-Forecast-Dashboard/blob/main/Assets/Live%201.PNG)
 
 
 ## Credits
