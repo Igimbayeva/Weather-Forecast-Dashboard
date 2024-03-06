@@ -35,12 +35,10 @@ Bootstrap (optional): Front-end framework for styling and components.
 
 ## Screenshot of the live page
 
-![https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%202.PNG]
-
+![https](https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%202.PNG)
 <br>
 <br>
-
-![https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%201.PNG]
+![https](https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%201.PNG)
 
 
 ## Credits
