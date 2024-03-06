@@ -17,17 +17,21 @@ Access your search history on the right side of the page for quick reference.
 
 ## Technologies Used
 HTML: Structure of the web pages.
+<br>
 CSS: Styling of the user interface.
+<br>
 JavaScript: Logic and functionality of the weather dashboard.
+<br>
 OpenWeatherMap API: Fetches real-time weather data.
-Bootstrap (optional): Front-end framework for styling and components.
+<br>
+Bootstrap: Front-end framework for styling and components.
+
 
 ## Github repo link
-[] https://github.com/Igimbayeva/Weather-Forecast-Hub
+https://github.com/Igimbayeva/Weather-Forecast-Hub
 
 ## Live page url
-[](https://igimbayeva.github.io/Weather-Forecast-Hub/)
-
+https://igimbayeva.github.io/Weather-Forecast-Hub/
 
 ## Mock up
 
