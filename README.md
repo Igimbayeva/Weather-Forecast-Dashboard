@@ -4,15 +4,17 @@
 This Weather Dashboard project is a web application that allows users to check the current weather and a 5-day forecast for a specific location. It leverages the OpenWeatherMap API to fetch weather data and presents it in a user-friendly interface.
 
 ## Features
-Current Weather Display: View the current temperature, wind speed, and humidity for a chosen location.
+Current Weather Display: View the real-time temperature, wind speed, and humidity for a chosen location.
+<br>
 5-Day Forecast: Get a forecast for the next 5 days, including temperature, wind speed, and humidity.
+<br>
 Search History: Keep track of previously searched locations for quick access.
 
 ## How to use
 Enter the name of a city in the search bar and press Enter or click the Search button.
 View the current weather information, including temperature, wind speed, and humidity.
-Scroll down to see the 5-day forecast, each displayed in a separate card.
-Access your search history on the right side of the page for quick reference.
+Explore the 5-day forecast presented in individual cards below.
+Easily access your search history for a quick reference.
 
 
 ## Technologies Used
