@@ -23,13 +23,17 @@ OpenWeatherMap API: Fetches real-time weather data.
 Bootstrap (optional): Front-end framework for styling and components.
 
 ## Github repo link
-
-[https://github.com/Igimbayeva/Weather-Forecast-Hub]
+[] https://github.com/Igimbayeva/Weather-Forecast-Hub
 
 ## Live page url
+[](https://igimbayeva.github.io/Weather-Forecast-Hub/)
+
 
 ## Screenshot of the live page
-
+![] https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%201.PNG
+<br>
+<br>
+![] https://github.com/Igimbayeva/Weather-Forecast-Hub/blob/main/Assets/Live%202.PNG
 
 
 ## Credits
