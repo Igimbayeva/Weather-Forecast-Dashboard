@@ -242,3 +242,15 @@ function handleSearchHistoryClick(e) {
 initSearchHistory();
 searchForm.addEventListener('submit', handleSearchFormSubmit);
 searchHistoryContainer.addEventListener('click', handleSearchHistoryClick);
+
+// Function to reset results and clear search history
+function resetResults() {
+  // Clear the search history in local storage
+  localStorage.removeItem('search-history');
+  // Clear the content in the history div
+  searchHistory = [];
+  searchHistoryContainer.innerHTML = '';
+}
+
+// Event listener for the reset results button
+document.getElementById('resetResultsBtn').addEventListener('click', resetResults);
